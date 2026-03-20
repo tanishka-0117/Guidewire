@@ -19,7 +19,7 @@
 
 ## Overview
 
-VeraShield is a parametric insurance platform built for gig economy delivery workers. It provides **automatic, real-time payouts** when severe weather conditions strand workers — no paperwork, no adjuster, no delay.
+ClaimSure is a parametric insurance platform built for gig economy delivery workers. It provides **automatic, real-time payouts** when severe weather conditions strand workers — no paperwork, no adjuster, no delay.
 
 When a verified red-alert weather event is detected at a worker's confirmed location, the payout is triggered automatically within minutes.
 
